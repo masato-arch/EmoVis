@@ -5,9 +5,9 @@
 ## 使い方
 
 1. Anacondaをインストールし、好きな名前で仮想環境を作る
-    [Anacondaのインストール](https://www.anaconda.com/download/)
-    仮想環境の構築: ``` conda create -n <環境名> ```
-    仮想環境のアクティベート: ``` conda activate <環境名> ```
+    1. [Anacondaのインストール](https://www.anaconda.com/download/)
+    1. 仮想環境の構築: ``` conda create -n <環境名> ```
+    1. 仮想環境のアクティベート: ``` conda activate <環境名> ```
 
 1. 本リポジトリをクローンする
     ```
