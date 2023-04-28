@@ -16,7 +16,7 @@
 
 1. 仮想環境内で以下のコマンドを実行
     1. pipのインストール: ``` conda install pip ```
-    1. pipを用いて必要なパッケージのインストール: ``` pip install requirement.txt ```
+    1. pipを用いて必要なパッケージのインストール: ``` pip install -r requirement.txt ```
     
 1. アプリを実行する
     ```
